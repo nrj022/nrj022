@@ -1,13 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=F4DB76&height=300&section=header)
+![header](https://capsule-render.vercel.app/api?type=wave&color=F4DB76&height=300&section=header&text=MYOJINSEO&fontColor=ffffff&fontSize=60&fontAlignY=38&animation=fadeIn)
 
-<h3 align="center">👋🏻Hi there!👋🏻</h3>
-
+<h3 align="center">👋🏻Hi there! I'm now...</h3>
 <p align="center">
-<strong>I'm now...
-</br>Interested in Android✨
-</br>Studying Steadlily!💪🏻</strong>
+<strong>
+Interested in Android✨
+</br>Studying Steadlily!💪🏻
+</strong>
 </p>
-</br>
 
 <h3 align="center">📚Tech Stack📚</h3>
 <p align="center">

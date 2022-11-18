@@ -1,16 +1,24 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=F4DB76&height=200&section=header)
 
-<!--
-**nrj022/nrj022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">👋🏻Hi there!👋🏻</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+<strong>I'm now...
+</br>Interested in Android✨
+</br>Studying Steadlily!💪🏻</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">📚Tech Stack📚</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Java-EC2025"/>&nbsp  
+  <img src="https://img.shields.io/badge/Kotlin-864BFC?style=flat-square&logo=Kotlin&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Python-1D3F5A?style=flat-square&logo=Python&logoColor=white"/>&nbsp
+  </br>
+  <img src="https://img.shields.io/badge/Android-30D780?style=flat-square&logo=Android&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=Git&logoColor=white"/>&nbsp
+</p>
+  
+<h3 align="center">🎇Contact🎇</h3>
+<p align="center">
+  <a href="0602smj@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p>

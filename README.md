@@ -20,5 +20,5 @@
   
 <h3 align="center">🎇Contact🎇</h3>
 <p align="center">
-  <a href="0602smj@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:0602smj@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>

@@ -4,7 +4,7 @@
 <p align="center">
 <strong>
 Interested in Android✨
-</br>Studying Steadlily!💪🏻
+</br>Studying Steadlily💪🏻
 </strong>
 </p>
 

@@ -1,5 +1,5 @@
 ### Myojin Seo ✨
-> Studying Android development with the goal of becoming an Android developer.
+> Building my foundation in Android to become a developer who crafts high-quality mobile solutions.
 <br>  
 
 #### Tech Stacks

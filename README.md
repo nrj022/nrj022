@@ -14,13 +14,13 @@
 
 #### Projects
 > [**RentIt**](https://github.com/rentit-team/rentit-android)  
-> Rental Marketplace Platform | **Android Developer(Solo), Designer**
+> Rental Marketplace Platform | **Android Developer(Solo), Designer** | 2025.04 ~ 
 
-> [**Com-us**](https://github.com/COM-US/COM-US-ANDROID) & [**Com-ma**](https://github.com/COM-MA/COM-MA-Android)  
-> AI service for deaf parents and CODA communication | **Android Developer(Solo)**
+> [**Com-ma**](https://github.com/COM-MA/COM-MA-Android) & [**Com-us**](https://github.com/COM-US/COM-US-ANDROID)   
+> AI service for deaf parents and CODA communication | **Android Developer(Solo)** | 2023.12 ~ 2024.04 
 
 > [**BookNuts**](https://github.com/Book-Nuts/booknuts-frontend)  
-> Social networking service for readers | **Android Developer**
+> Social networking service for readers | **Android Developer** | 2022.04 ~ 05  
 <br>  
 
 #### Contact  

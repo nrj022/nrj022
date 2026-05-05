@@ -13,6 +13,9 @@
 <br>  
 
 #### Projects
+> [**Z Card**](https://github.com/nrj022/z-card)  
+> 3D Card Creation App | **End-to-End Developer** | 2025.10 ~
+
 > [**RentIt**](https://github.com/rentit-team/rentit-android)  
 > Rental Marketplace Platform | **Android Developer(Solo), Designer** | 2025.04 ~ 
 
